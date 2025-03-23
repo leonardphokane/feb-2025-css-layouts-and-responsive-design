@@ -1,5 +1,3 @@
-# feb-2025-css-layouts-and-responsive-design
-
 # CSS Layouts and Responsive Design
 
 ## Objectives
